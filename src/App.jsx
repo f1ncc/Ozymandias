@@ -19,7 +19,7 @@ function App() {
   });
 
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto py-4">
       <Helmet>
         <style>{"body { background-color: black; }"}</style>
       </Helmet>
